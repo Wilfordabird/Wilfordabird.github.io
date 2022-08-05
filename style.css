@@ -73,8 +73,9 @@
     .navbar{
         position: fixed;
         top: 2px;
+        left: 4px;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
         align-items: center;
         background-color: transparent;
